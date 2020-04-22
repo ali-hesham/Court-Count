@@ -13,3 +13,5 @@ this is a simple android app that counts the score between two basketball teams
 * TextView: 4
 
 * Button: 7 
+
+![Image of App](https://github.com/ali-hesham/Court-Count/blob/master/Courter-Count.jpg)
